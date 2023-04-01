@@ -1,5 +1,5 @@
 # Sample-Animation-For-Web-Design
-Expanding Cards Animation | HTML, CSS, JavaScript
+Expanding Cards Animation | HTML, CSS, JavaScript\n
 This web page includes only animation sample for web design. It has no any function...
 
 
